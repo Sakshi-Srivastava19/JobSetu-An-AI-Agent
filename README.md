@@ -6,6 +6,7 @@ AI agent created and deployed on IBM Cloud. It is built as an final project for 
 JobSetu is an AI-powered virtual job mentor designed to assist informal workers like daily wage laborers, artisans, gig workers, and self-employed individuals in accessing job opportunities, government schemes, and skill development resources. Built on IBM Cloud Lite services and powered by Large Language Models (LLMs) like IBM Granite, JobSetu leverages Retrieval-Augmented Generation (RAG) architecture to deliver personalized, multilingual career guidance.
 
 ---
+![JobSetu](jobsetuu.png)
 
 ## 🚩 Problem Statement
 Millions of informal workers in India lack access to digital platforms for job discovery and government schemes due to language barriers, digital illiteracy, and fragmented information sources. JobSetu aims to bridge this opportunity gap by providing an AI-driven vernacular job mentorship platform.
@@ -72,6 +73,7 @@ Millions of informal workers in India lack access to digital platforms for job d
 | "मजदूरी की नौकरी चाहिए" | Provides nearby job suggestions | Hindi |
 | "naukri chahiye electrician ki" | Recommends job portals and application tips | Hinglish |
 | "पुण्यात काम आहेत का?" | Suggests job listings in Pune | Marathi |
+More languages like Tamil, Gujarati etc
 
 ### Observations:
 ✔️ Multilingual conversation support (manual language selection).  
