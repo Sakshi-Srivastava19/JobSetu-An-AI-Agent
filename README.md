@@ -75,6 +75,17 @@ Millions of informal workers in India lack access to digital platforms for job d
 | "पुण्यात काम आहेत का?" | Suggests job listings in Pune | Marathi |
 More languages like Tamil, Gujarati etc
 
+![](Result/img1.png)
+![](Result/img2.png)
+![](Result/img3.png)
+![](Result/img4.png)
+![](Result/img5.png)
+![](Result/img6.png)
+![](Result/img7.png)
+![](Result/img8.png)
+![](Result/imgl.png)
+
+
 ### Observations:
 ✔️ Multilingual conversation support (manual language selection).  
 ✔️ Simplified responses tailored to informal workers.  
